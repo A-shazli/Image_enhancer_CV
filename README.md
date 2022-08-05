@@ -1,6 +1,7 @@
 # Image_enhancer_CV
 Available options 
-![image](https://user-images.githubusercontent.com/61319952/183141499-241fa8c1-71d4-4aac-b88b-98229f296c05.png)
+<img src="https://user-images.githubusercontent.com/61319952/183141499-241fa8c1-71d4-4aac-b88b-98229f296c05.png">
+
 <hr class="rounded">
 
 <p>Demonstrations</p> 
