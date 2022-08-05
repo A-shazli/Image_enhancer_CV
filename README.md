@@ -7,11 +7,11 @@
 
 <p>Demonstrations</p> 
 <img src="https://user-images.githubusercontent.com/61319952/183141201-dd483a17-0cba-4741-bce6-86ee9bc806d8.png">
-  <hr class="rounded">
-Gaussian Blur
+
+  <p>Gaussian Blur</p>
   <img src="https://user-images.githubusercontent.com/61319952/183141551-555b972d-d171-49a7-98db-42315ed77a92.png">
-  <hr class="rounded">
-Histogram and Fourier domain
+
+  <p>Histogram and Fourier domain</p>
 
   <img src="https://user-images.githubusercontent.com/61319952/183141599-a8ace60e-b36a-4d96-812e-8e2bac17289d.png">
 
